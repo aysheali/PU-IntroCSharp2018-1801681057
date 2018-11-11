@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusTicketLuckyNumbers", "ST
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{C5A2A466-D924-4F2B-9668-1A67526D829A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{A1C7F027-136F-44AD-9841-033D4A5A77BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{A1C7F027-136F-44AD-9841-033D4A5A77BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsWithSmiley", "StudentsNumberSmiley\StudentsWithSmiley.csproj", "{1E89EFD1-B9BB-4315-927B-23AC83E34EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,6 +75,10 @@ Global
 		{A1C7F027-136F-44AD-9841-033D4A5A77BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1C7F027-136F-44AD-9841-033D4A5A77BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1C7F027-136F-44AD-9841-033D4A5A77BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E89EFD1-B9BB-4315-927B-23AC83E34EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E89EFD1-B9BB-4315-927B-23AC83E34EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E89EFD1-B9BB-4315-927B-23AC83E34EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E89EFD1-B9BB-4315-927B-23AC83E34EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
